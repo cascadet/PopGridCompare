@@ -6,9 +6,9 @@ This repo contains the code to stack and spatially align four global gridded pop
 
   
 
-For further information on gridded population data and their application, visit the [POPGRID Data Collaborative](https://popgrid.org).
+For further information on gridded population data and their application, visit the [POPGRID Data Collaborative](https://popgrid.org).  
+Other helpful repos: [https://github.com/cascadet/PopGrid-SDG11.5-Tutorial](https://github.com/cascadet/PopGrid-SDG11.5-Tutorial) and [ https://github.com/cascadet/PopGridCompare-ms](https://github.com/cascadet/PopGridCompare-ms).
 
-  
 
 **Reference:**  
 Tuholske, C., Gaughan, A. E., Sorichetta, A., de Sherbinin, A., Bucherie, A., Hultquist, C., ... & Yetman, G. (2021). Implications for Tracking SDG Indicator Metrics with Gridded Population Data. Sustainability, 13(13), 7329. [https://doi.org/10.3390/su13137329](https://doi.org/10.3390/su13137329)
