@@ -1,3 +1,9 @@
+# CPT Ignore
+*.DS_Store 
+/data
+*.tif
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
